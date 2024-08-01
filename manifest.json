@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "wiiideDynamics365",
-    "description": "Wide global search bar for Dynamics 365",
+    "description": "Wide global search results bar for Dynamics 365",
     "version": "1.0",
     "icons": {
         "16": "images/arrow-16.png",
