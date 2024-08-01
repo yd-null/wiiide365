@@ -1,3 +1,5 @@
 #id-globalSearchFlyout-1 {
-    width:60rem !important;
+    width:69rem !important;
+    left: 50% !important;
+    transform: translate(-45%) !important;
 }
