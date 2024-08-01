@@ -3,10 +3,11 @@
     "name": "wiiideDynamics365",
     "description": "Wide global search bar for Dynamics 365",
     "version": "1.0",
-    "images": {
-        "16": "images/arrow-16.png"
-        "48": "images/arrow-48.png"
+    "icons": {
+        "16": "images/arrow-16.png",
+        "48": "images/arrow-48.png",
         "128": "images/arrow-128.png"
+    },
     "action": {
         "default_popup": "popup/popup.html",
         "default_icon": "images/arrow-128.png"
